@@ -1,6 +1,5 @@
 //Srishti Singhal
 //Programming Assignment 1
-//V00863288
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

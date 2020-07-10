@@ -1,6 +1,5 @@
 //Srishti Singhal
 //Programming Assignment 2
-//V00863288
 #include <stdio.h>
 #include <ctype.h>
 #include <time.h>
